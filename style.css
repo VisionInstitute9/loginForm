@@ -1,0 +1,9 @@
+body{
+    background-color: white;
+}
+p{
+    background-color: #000000;
+    color:white;
+       font-size: 40px;
+    font-weight: bold;
+}
